@@ -1,7 +1,7 @@
 <h2>Bu Benim</h2>
 
 ```js
-class Papaz {
+class Sarapxd {
     constructor(options) {
         this.name = "Selo",
         this.sex = "man",
